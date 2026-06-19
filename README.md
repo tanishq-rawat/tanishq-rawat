@@ -28,14 +28,14 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanishq0917t)](https://github.com/tanishq0917t/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanishq-rawat)](https://github.com/tanishq-rawat/github-readme-streak-stats)
 
 ## Connect with me:
 <p align="left">
 <a href = "https://www.instagram.com/tanishqrawat/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"></a>
 </a>
-<a href = "https://www.linkedin.com/in/tanishq1710h/" target="_blank"><img src="https://github.com/tanishq0917t/tanishq0917t/blob/main/icons8-linkedin-circled-48.png"></a>
+<a href = "https://www.linkedin.com/in/tanishq1710h/" target="_blank"><img src="https://github.com/tanishq-rawat/tanishq-rawat/blob/main/icons8-linkedin-circled-48.png"></a>
 </a>
-<a href = "https://tanishqrawat1710h.medium.com/" target="_blank"><img src="https://github.com/tanishq-17102001/tanishq-17102001/blob/main/icons8-medium-64%20(1).png"></a>
+<a href = "https://tanishqrawat1710h.medium.com/" target="_blank"><img src="https://github.com/tanishq-rawat/tanishq-rawat/blob/main/icons8-medium-64%20(1).png"></a>
 </p>
 
